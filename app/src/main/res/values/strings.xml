@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calories Counter</string>
+    <string name="hello_world">Hello World</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_text">Cal Counter</string>
+    <string name="hint_food">What did you eat?</string>
+    <string name="hint_calories">Calories count</string>
+    <string name="submit_text">Submit</string>
+    <string name="delete_item">Delete item</string>
+    <string name="share_title">Share</string>
+    <string name="food_total_text">Total calories:</string>
+    <string name="cal_text">Cal.</string>
+    <string name="food_items_num">Food items:</string>
+    <string name="apple_logo">Apple Logo</string>
+</resources>
